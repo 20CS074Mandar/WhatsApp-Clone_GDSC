@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Whatsapp-Clone-GDSC</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    //User Names
+    <string name="Brad">Brad Pit</string>
+    <string name="RDJ">Robert Downey Jr.</string>
+    <string name="tomH">Tom Hardy</string>
+    <string name="Pankaj">Pankaj Tripathi</string>
+    <string name="Hritik">Hrithik Roshan</string>
+    <string name="DishsP">Disha Patani</string>
+    <string name="Kiara">Kiara Advani</string>
+    <string name="Emaa">Emma Watson</string>
+    <string name="Ana">Hathway</string>
+</resources>
